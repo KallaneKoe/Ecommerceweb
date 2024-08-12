@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Allow: /new-sitemap.xml
+Allow: /sitemap.html
+
+Sitemap: http://shopbachhoaweb.wuaze.com/new-sitemap.xml
